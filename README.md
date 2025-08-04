@@ -9,8 +9,8 @@ Script yg sangat cocok untuk nyepam penipu / ripper / temen lu yg punya utang ta
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
-$ git clone https://github.com/Sxp-ID/Neko-SPM
-$ cd Neko-SPM
+$ git clone https://github.com/ImFastro/FastBot
+$ cd FastBot
 $ make install
 $ python app.py
 

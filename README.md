@@ -3,7 +3,7 @@ Welcome
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
-# Neko-SPM
+# FastBot
 Script yg sangat cocok untuk nyepam penipu / ripper / temen lu yg punya utang tapi gak bayar² !
 
 <details open><summary><code>Perintah Script?</code></summary>

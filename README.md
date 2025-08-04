@@ -21,7 +21,7 @@ $ make run
 
 ## Full tutorialnya?
 - Link video <code><a href="https://youtu.be/@ImFastro">klik disini</a></code>
-- Subs yt admin <code><a href="https://youtube.com/@ImFastro">FREE TUTORIAL</a></code>
+- Subs yt admin <code><a href="https://youtube.com/@ImFastro">Fastro !!??</a></code>
 <div align="center">
 
 ### Jgn lupa kasih star masbro !

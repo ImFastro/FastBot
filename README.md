@@ -1,10 +1,10 @@
 # 🚀 FastBot v2 — Termux Spam Simulation Tool
 
-![FastBot Logo](https://img.shields.io/badge/FastBot-v2-blue?style=for-the-badge&logo=linux)
+![FastBot Logo](https://img.shields.io/badge/FastBot-v1-blue?style=for-the-badge&logo=linux)
 ![Platform](https://img.shields.io/badge/Platform-Termux-green?style=for-the-badge&logo=android)
 ![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
-FastBot v2 adalah **alat simulasi spam WhatsApp** yang berjalan di Termux.  
+FastBot v1 adalah **alat simulasi spam WhatsApp** yang berjalan di Termux.  
 ⚠️ **Catatan**: Ini hanyalah simulasi, tidak mengirim pesan sungguhan.  
 Didesain untuk **pembelajaran & hiburan**, bukan untuk penyalahgunaan.
 
@@ -25,7 +25,7 @@ Jalankan perintah ini di Termux:
 
 ```bash
 pkg update -y && pkg install git -y
-git clone https://github.com/ImFastro/FastBot-v2.git
-cd FastBot-v2
+git clone https://github.com/ImFastro/FastBot.git
+cd FastBot-v1
 chmod +x install_fastbot.sh
 ./install_fastbot.sh

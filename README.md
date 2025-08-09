@@ -1,28 +1,31 @@
-  GNU nano 8.5                                  README.md
-Welcome
---------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+# 🚀 FastBot v2 — Termux Spam Simulation Tool
 
-# FastBot
-Script yg sangat cocok untuk nyepam penipu / ripper / temen lu yg punya utang tapi gak bayar² !
+![FastBot Logo](https://img.shields.io/badge/FastBot-v2-blue?style=for-the-badge&logo=linux)
+![Platform](https://img.shields.io/badge/Platform-Termux-green?style=for-the-badge&logo=android)
+![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
-<details open><summary><code>Perintah Script?</code></summary>
+FastBot v2 adalah **alat simulasi spam WhatsApp** yang berjalan di Termux.  
+⚠️ **Catatan**: Ini hanyalah simulasi, tidak mengirim pesan sungguhan.  
+Didesain untuk **pembelajaran & hiburan**, bukan untuk penyalahgunaan.
 
-```php
-$ git clone https://github.com/ImFastro/FastBot
-$ cd FastBot
-$ make install
-$ python app.py
+---
 
-Atau bisa juga run script nya dg ketik perintah
-$ make run
-```
-</details>
+## ✨ Fitur
+- Tampilan tema **FastBot** yang unik.
+- Intro otomatis yang mengarahkan ke:
+  - YouTube: [ImFastro](https://www.youtube.com/ImFastro)
+  - GitHub: [ImFastro](https://github.com/ImFastro)
+- Efek suara **ketikan hacker palsu**.
+- Log hasil simulasi ke file `sent.log`.
 
-## Full tutorialnya?
-- Link video <code><a href="https://youtu.be/@ImFastro">klik disini</a></code>
-- Subs yt admin <code><a href="https://youtube.com/@ImFastro">Fastro !!??</a></code>
-<div align="center">
+---
 
-### Jgn lupa kasih star masbro !
-</div>
+## 📥 Instalasi
+Jalankan perintah ini di Termux:
+
+```bash
+pkg update -y && pkg install git -y
+git clone https://github.com/ImFastro/FastBot-v2.git
+cd FastBot-v2
+chmod +x install_fastbot.sh
+./install_fastbot.sh
